@@ -22,7 +22,9 @@ This application is covered by the Open license.
 ## Contributing
 imiller142
 ## Tests
-![video](./vid/demo.mp4)
+![video] https://user-images.githubusercontent.com/64618300/139159739-a2d80539-be7d-4f29-a996-c90dee4ca70f.mp4
+
+
 ## Questions
 N/A<br />
 <br />
