@@ -1,9 +1,9 @@
 
-<h1>a;sldkj 👋</h1>
+<h1>Reamdme Generator</h1>
   
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
-🔍 asldkfj
+Readmes
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,21 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 asldkfj
+Download
 ## Usage
-💻 alsdkjf
+Readmes
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 ## Contributing
-👪 laksdjf
+Me
 ## Tests
-✏️ alsdkf
+no
 ## Questions
-✋ lsadkj<br />
+na<br />
 <br />
-:octocat: Find me on GitHub: [lasdkfj](https://github.com/lasdkfj)<br />
+Find me on GitHub: [imiller142](https://github.com/imiller142)<br />
 <br />
-✉️ Email me with any questions: ldaskj<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+Email me with any questions: imiller142@gmail.com
     
